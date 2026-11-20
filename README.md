@@ -1,3 +1,3 @@
 # demo1
-This is my demo Repository
+This is my demo Repository.
 Author - Rakesh
